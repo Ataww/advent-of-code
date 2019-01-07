@@ -4,7 +4,7 @@ Advent of code
 
 See https://adventofcode.com/2018
 
-My solutions in Typescript along with template projects to get started on each problem. Navigate to the desired day and run `npm install` or `yarn` to install dependencies.
+My solutions in Typescript along with template projects to get started on each problem. Navigate to the desired day and run `npm install` or `yarn` to install dependencies. If your input is different from mine replace the content of input.txt with your own.
 
 ## scripts
 
